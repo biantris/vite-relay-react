@@ -40,7 +40,7 @@ input ShipsFind {
   class: Int
   weight_lbs: Int
   weight_kg: Int
-  year_built: In
+  year_built: Int
   home_port: String
   status: String
   speed_kn: Int
