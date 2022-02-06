@@ -1,6 +1,5 @@
 # vite-relay-react
-- relay concepts
-- hooks relay
+
 ### Starting
 ```bash
 yarn
