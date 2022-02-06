@@ -1,4 +1,3 @@
-# relay-study
-### relay + vite + react
+# vite-relay-react
 - relay concepts
 - hooks relay
