@@ -1,4 +1,4 @@
-# vite-relay-react
+# ⚡️ vite-relay-react
 Inspired by https://github.com/oscartbeaumont/vite-plugin-relay
 ### Starting
 ```bash
